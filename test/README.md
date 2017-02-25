@@ -1,1 +1,1 @@
-This is a readme to satisfy FoodCriti
+This is a readme to satisfy FoodCritic.
